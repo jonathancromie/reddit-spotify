@@ -1,0 +1,12 @@
+.navbar-header img {
+  width: 30px;
+  height: 30px;
+}
+
+#playlist {
+  text-align: center;
+}
+
+#results {
+  text-align: center;
+}
